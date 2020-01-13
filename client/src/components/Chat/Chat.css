@@ -14,6 +14,7 @@
     border-radius: 8px;
     height: 60%;
     width: 35%;
+    background-color: rgb(213, 223, 220);
   }
   
   @media (min-width: 320px) and (max-width: 480px) {
