@@ -14,6 +14,8 @@
     border-radius: 8px;
     height: 60%;
     width: 35%;
+    background-color: rgb(213, 223, 220);
+    background-image: url(https://www.lonelyplanet.com/news/wp-content/uploads/2017/11/london-graffiti-tunnel-850x567.jpg);
   }
   
   @media (min-width: 320px) and (max-width: 480px) {
